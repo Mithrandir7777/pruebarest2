@@ -1,0 +1,7 @@
+{
+ "verificacioneshecho": [
+    { "id": 1, "idhecho": 1, "idverificacion": 1, "clasificacion": 1, "tituloHecho": "una noticia falsa" },
+    { "id": 2, "idhecho": 1, "idverificacion": 2, "clasificacion": 2, "tituloHecho": "otra noticia falsa" },
+    { "id": 3, "idhecho": 1, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "una noticia verdadera" }
+  ]
+}
