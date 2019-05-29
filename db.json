@@ -4,6 +4,7 @@
     { "id": 2, "idhecho": 2, "idverificacion": 2, "clasificacion": 2, "tituloHecho": "otra noticia falsa" },
     { "id": 3, "idhecho": 3, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "una noticia verdadera" },
     { "id": 4, "idhecho": 4, "idverificacion": 3, "clasificacion": 5, "tituloHecho": "una noticia requete verdadera" },
-  { "id": 5, "idhecho": 4, "idverificacion": 3, "clasificacion": 3, "tituloHecho": "una noticia medio verdadera" }
+  { "id": 5, "idhecho": 4, "idverificacion": 3, "clasificacion": 3, "tituloHecho": "una noticia medio verdadera" },
+  { "id": 6, "idhecho": 6, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "noticia de ultima hora" }
   ]
 }
