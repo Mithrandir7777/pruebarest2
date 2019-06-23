@@ -1,10 +1,13 @@
 {
  "verificacioneshecho": [
-    { "id": 1, "idhecho": 1, "idverificacion": 1, "clasificacion": 1, "tituloHecho": "una noticia falsa" },
-    { "id": 2, "idhecho": 2, "idverificacion": 2, "clasificacion": 2, "tituloHecho": "otra noticia falsa" },
-    { "id": 3, "idhecho": 3, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "una noticia verdadera" },
-    { "id": 4, "idhecho": 4, "idverificacion": 3, "clasificacion": 5, "tituloHecho": "una noticia requete verdadera" },
-  { "id": 5, "idhecho": 4, "idverificacion": 3, "clasificacion": 3, "tituloHecho": "una noticia medio verdadera" },
-  { "id": 6, "idhecho": 6, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "noticia de ultima hora" }
+    { "id": 1, "idhecho": 1, "idverificacion": 1, "clasificacion": 1, "tituloHecho": "una noticia falsa", "descripcionHecho": "una descripcion1", "tipo": "verificado", "fecha":"22/06/2019"},
+    { "id": 2, "idhecho": 2, "idverificacion": 2, "clasificacion": 2, "tituloHecho": "otra noticia falsa", "descripcionHecho": "una descripcion2", "tipo": "verificado", "fecha":"23/06/2019" },
+    { "id": 3, "idhecho": 3, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "una noticia verdadera", "descripcionHecho": "una descripcion3", "tipo": "verificado", "fecha":"21/06/2019" },
+    { "id": 4, "idhecho": 4, "idverificacion": 3, "clasificacion": 5, "tituloHecho": "una noticia requete verdadera", "descripcionHecho": "una descripcion4", "tipo": "verificado", "fecha":"20/06/2019" },
+  { "id": 5, "idhecho": 5, "idverificacion": 3, "clasificacion": 3, "tituloHecho": "una noticia medio verdadera", "descripcionHecho": "una descripcion5", "tipo": "verificado", "fecha":"19/06/2019" },
+  { "id": 6, "idhecho": 6, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar", "descripcionHecho": "una descripcion7", "tipo": "no_verificado", "fecha":"18/06/2019" },
+  { "id": 7, "idhecho": 7, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar2", "descripcionHecho": "una descripcion8", "tipo": "no_verificado", "fecha":"17/06/2019" },
+  { "id": 8, "idhecho": 8, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar3", "descripcionHecho": "una descripcion9", "tipo": "no_verificado", "fecha":"16/06/2019" },
+  { "id": 9, "idhecho": 9, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar4", "descripcionHecho": "una descripcion10", "tipo": "no_verificado", "fecha":"15/06/2019" }
   ]
 }
