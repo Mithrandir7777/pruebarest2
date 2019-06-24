@@ -8,6 +8,7 @@
   { "id": 6, "idhecho": 6, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar", "descripcionHecho": "una descripcion7", "tipo": "no_verificado", "fecha":"18/06/2019" },
   { "id": 7, "idhecho": 7, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar2", "descripcionHecho": "una descripcion8", "tipo": "no_verificado", "fecha":"17/06/2019" },
   { "id": 8, "idhecho": 8, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar3", "descripcionHecho": "una descripcion9", "tipo": "no_verificado", "fecha":"16/06/2019" },
-  { "id": 9, "idhecho": 9, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar4", "descripcionHecho": "una descripcion10", "tipo": "no_verificado", "fecha":"15/06/2019" }
+  { "id": 9, "idhecho": 9, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar4", "descripcionHecho": "una descripcion10", "tipo": "no_verificado", "fecha":"15/06/2019" },
+  { "id": 10, "idhecho": 772, "idverificacion": 3, "clasificacion": 0, "tituloHecho": "noticia a verificar4", "descripcionHecho": "una descripcion10", "tipo": "no_verificado", "fecha":"17/05/2019" }
   ]
 }
